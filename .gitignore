@@ -1,0 +1,9 @@
+# Dependencies
+/api-server/node_modules
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
