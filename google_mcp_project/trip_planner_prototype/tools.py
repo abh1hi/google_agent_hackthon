@@ -1,6 +1,6 @@
 import requests
 
-API_BASE_URL = "http://localhost:3000/api"
+API_BASE_URL = "https://google-agent-hackthon.onrender.com/api"
 
 def find_flights(destination: str) -> str:
     """Finds flight options for a given destination by calling the external API.
